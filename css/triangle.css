@@ -1,0 +1,30 @@
+h1 {
+    color: green;
+    text-align: center;
+}
+h2 {
+  color: purple;
+  text-align: center;
+  font-style: italic;
+}
+h3 {
+  color: red;
+  font-style: initial;
+}
+h4 {
+  color: blue;
+  font-style: unset; 
+}
+h5 {
+  color: blue;
+  font-style: unset;
+  font-size: 17px
+}
+h6 {
+  color: blue;
+  font-style: unset;
+  font-size: 17px;
+}
+body {
+    background-image: url(triangle.jpg)
+}
