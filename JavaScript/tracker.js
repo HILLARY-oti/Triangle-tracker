@@ -9,7 +9,7 @@ function Hillary(){
       alert("ISOSCELES TRIANGLE");
     }
     else if (adjacent+hypotenuse<=opposite||hpotenuse +opposite<=adjacent||adjacent+opposite<=hypotenuse){
-      alert('NOT A TRIANGLE');
+      alert('Scalenev');
     }
     else{
     alert(scalene);    
